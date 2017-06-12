@@ -1,0 +1,27 @@
+.btn.btn-success {
+  background-color: #BDEA09;
+  color: black;
+  border: 1px solid #BDEA09;
+  width: 100px;
+}
+
+.btn.btn-success:hover {
+  background-color: #509745;
+  color: white;
+  border: 1px solid #509745;
+}
+
+.btn-danger {
+  background-color: #ff4300;
+  color: white;
+  border: 1px solid #ff4300;
+}
+
+.btn-danger:hover {
+  background-color: #D5451A;
+  border: 1px solid #D5451A;
+}
+
+.col-sm-4 {
+
+}
