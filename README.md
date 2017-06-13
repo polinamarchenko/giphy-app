@@ -11,4 +11,4 @@
 - every new Gif is added to the list of displayed Gifs
 - you can remove all Gifs by clicking on the 'Delete all' button
 
-![Giphy-app](/Users/Polina/Desktop/giphy-app/public/giphy-app.png)
+![Giphy-app](./public/giphy-app.png)
