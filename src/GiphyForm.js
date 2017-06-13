@@ -44,7 +44,7 @@ class GiphyForm extends Component {
           </form>
           <button className='btn btn-danger col-sm-1' onClick={this.handleRemoveAll}>Delete all</button>
         </div>
-      </div>  
+      </div>
     );
   }
 }

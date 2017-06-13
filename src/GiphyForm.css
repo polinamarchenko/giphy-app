@@ -3,6 +3,7 @@
   color: black;
   border: 1px solid #BDEA09;
   width: 100px;
+  margin-left: 20px;
 }
 
 .btn.btn-success:hover {
@@ -15,13 +16,10 @@
   background-color: #ff4300;
   color: white;
   border: 1px solid #ff4300;
+  margin-left: -80px;
 }
 
 .btn-danger:hover {
   background-color: #D5451A;
   border: 1px solid #D5451A;
-}
-
-.col-sm-4 {
-
 }
